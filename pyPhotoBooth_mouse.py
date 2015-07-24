@@ -66,7 +66,7 @@ banner_text_size = 100
 frame_select_method = 1 #0=fixed to 0, 1=manual selection, will enter pyFrameSelect, 2: random
 
 #Selphy Printer Paper Tray/Ink Catridge Problem
-paper_ink_notification = 1  #0= disable, 1=enable
+paper_ink_notification = 0  #0= disable, 1=enable
 paper_round = 18  	#1 paper tray can fill in 18 sheet
 paper_val = 18
 ink_round =2		#1 ink catridge can print up to 2 paper tray (36sheet)
